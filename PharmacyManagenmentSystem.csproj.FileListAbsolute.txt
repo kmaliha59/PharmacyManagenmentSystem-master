@@ -1,0 +1,17 @@
+D:\6th semester\DP\Project\PharmacyManagenmentSystem-master\PharmacyManagenmentSystem\bin\Debug\PharmacyManagenmentSystem.exe.config
+D:\6th semester\DP\Project\PharmacyManagenmentSystem-master\PharmacyManagenmentSystem\bin\Debug\PharmacyManagenmentSystem.exe
+D:\6th semester\DP\Project\PharmacyManagenmentSystem-master\PharmacyManagenmentSystem\bin\Debug\PharmacyManagenmentSystem.pdb
+D:\6th semester\DP\Project\PharmacyManagenmentSystem-master\PharmacyManagenmentSystem\obj\Debug\PharmacyManagenmentSystem.csproj.AssemblyReference.cache
+D:\6th semester\DP\Project\PharmacyManagenmentSystem-master\PharmacyManagenmentSystem\obj\Debug\PharmacyManagenmentSystem.csproj.SuggestedBindingRedirects.cache
+D:\6th semester\DP\Project\PharmacyManagenmentSystem-master\PharmacyManagenmentSystem\obj\Debug\PharmacyManagenmentSystem.AddMedicine.resources
+D:\6th semester\DP\Project\PharmacyManagenmentSystem-master\PharmacyManagenmentSystem\obj\Debug\PharmacyManagenmentSystem.AdminDashboard.resources
+D:\6th semester\DP\Project\PharmacyManagenmentSystem-master\PharmacyManagenmentSystem\obj\Debug\PharmacyManagenmentSystem.Billing.resources
+D:\6th semester\DP\Project\PharmacyManagenmentSystem-master\PharmacyManagenmentSystem\obj\Debug\PharmacyManagenmentSystem.CheckStock.resources
+D:\6th semester\DP\Project\PharmacyManagenmentSystem-master\PharmacyManagenmentSystem\obj\Debug\PharmacyManagenmentSystem.AddOrder.resources
+D:\6th semester\DP\Project\PharmacyManagenmentSystem-master\PharmacyManagenmentSystem\obj\Debug\PharmacyManagenmentSystem.LoginFormed.resources
+D:\6th semester\DP\Project\PharmacyManagenmentSystem-master\PharmacyManagenmentSystem\obj\Debug\PharmacyManagenmentSystem.Properties.Resources.resources
+D:\6th semester\DP\Project\PharmacyManagenmentSystem-master\PharmacyManagenmentSystem\obj\Debug\PharmacyManagenmentSystem.UpdateStock.resources
+D:\6th semester\DP\Project\PharmacyManagenmentSystem-master\PharmacyManagenmentSystem\obj\Debug\PharmacyManagenmentSystem.csproj.GenerateResource.cache
+D:\6th semester\DP\Project\PharmacyManagenmentSystem-master\PharmacyManagenmentSystem\obj\Debug\PharmacyManagenmentSystem.csproj.CoreCompileInputs.cache
+D:\6th semester\DP\Project\PharmacyManagenmentSystem-master\PharmacyManagenmentSystem\obj\Debug\PharmacyManagenmentSystem.exe
+D:\6th semester\DP\Project\PharmacyManagenmentSystem-master\PharmacyManagenmentSystem\obj\Debug\PharmacyManagenmentSystem.pdb

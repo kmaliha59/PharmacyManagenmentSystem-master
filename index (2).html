@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pharmacy Management System</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            color: white;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 60px 0;
+        }
+
+        header h1 {
+            font-size: 3rem;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+            margin: 50px 0;
+        }
+
+        .feature-card {
+            background: rgba(255,255,255,0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 15px;
+            padding: 30px;
+            text-align: center;
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+
+        .feature-card h3 {
+            font-size: 1.5rem;
+            margin-bottom: 15px;
+        }
+
+        .download-btn {
+            display: inline-block;
+            background: #fff;
+            color: #667eea;
+            padding: 15px 40px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.1rem;
+            margin-top: 30px;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .download-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+        }
+
+        .tech-stack {
+            background: rgba(255,255,255,0.1);
+            border-radius: 15px;
+            padding: 40px;
+            margin: 40px 0;
+            text-align: center;
+        }
+
+        .tech-stack h2 {
+            margin-bottom: 20px;
+        }
+
+        .tech-items {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-top: 20px;
+        }
+
+        .tech-item {
+            background: rgba(255,255,255,0.2);
+            padding: 10px 25px;
+            border-radius: 25px;
+            font-size: 0.9rem;
+        }
+
+        footer {
+            text-align: center;
+            padding: 40px 0;
+            opacity: 0.8;
+        }
+
+        .author {
+            margin-top: 20px;
+            font-size: 1.1rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Pharmacy Management System</h1>
+            <p>A complete desktop solution for pharmacy inventory, orders, and administration</p>
+            <a href="https://github.com/kmaliha59/PharmacyManagementSystem-master" class="download-btn">View on GitHub</a>
+        </header>
+
+        <div class="features">
+            <div class="feature-card">
+                <h3>Medicine Management</h3>
+                <p>Add, update, and track all medicines in your inventory with ease</p>
+            </div>
+            <div class="feature-card">
+                <h3>Order Management</h3>
+                <p>Create and manage customer orders efficiently</p>
+            </div>
+            <div class="feature-card">
+                <h3>Admin Dashboard</h3>
+                <p>Centralized control panel for administrators</p>
+            </div>
+            <div class="feature-card">
+                <h3>User-Friendly UI</h3>
+                <p>Built with Windows Forms for smooth user experience</p>
+            </div>
+        </div>
+
+        <div class="tech-stack">
+            <h2>Built With</h2>
+            <div class="tech-items">
+                <span class="tech-item">C#</span>
+                <span class="tech-item">.NET Framework 4.8</span>
+                <span class="tech-item">Windows Forms</span>
+                <span class="tech-item">SQL Server</span>
+            </div>
+        </div>
+
+        <footer>
+            <p>Built by <strong>Maliha Khan</strong></p>
+            <div class="author">
+                <a href="https://github.com/kmaliha59" style="color: white;">GitHub: @kmaliha59</a>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>
